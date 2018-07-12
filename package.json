@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "react": 16.4.1
+    "react": "^16.4.1"
   },
   "devDependencies": {},
   "optionalDependencies": {}
